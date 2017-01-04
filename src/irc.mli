@@ -27,8 +27,6 @@
   @author Berke Durak, Samuel Mimram
 *)
 
-(* $Id: irc.mli,v 1.3 2005-12-18 13:32:13 smimou Exp $ *)
-
 (** {1 Types} *)
 
 (** Modes (for channels and users). *)

@@ -20,8 +20,6 @@
  Boston, MA 02111-1307, USA.
  *)
 
-(* $Id: irc.ml,v 1.3 2005-12-18 13:32:13 smimou Exp $ *)
-
 (*
  An IRC protocol analyser / synthesiser.
 
