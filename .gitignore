@@ -1,0 +1,8 @@
+*.a
+*.cmxa
+*.cmi
+*.cmx
+*.o
+*~
+._d
+._ncdi
